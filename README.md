@@ -28,7 +28,7 @@ or if already cloned:
     
     cookiecutter cookiecutter-mcon
 
-
+This will create a new project in the current directory.
 
 ### The resulting directory structure
 ------------
@@ -56,13 +56,3 @@ The directory structure of your new project looks like this:
 │   └── misc
 │   └── terraform           <- terraform for model training with EC2
 ```
-
-### Installing development requirements
-------------
-
-    pip install -r requirements.txt
-
-### Running the tests
-------------
-
-    py.test tests
