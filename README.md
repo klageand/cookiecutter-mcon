@@ -24,7 +24,8 @@ $ conda install cookiecutter
 
     cookiecutter https://github.com/klageand/cookiecutter-mcon
 
-or if already cloned:
+This will create a new project in the current directory and add this cookiecutter template to C:\Users\user\.cookiecutters\.
+If cookiecutter-mcon already exists there, it is enough to run:
     
     cookiecutter cookiecutter-mcon
 
