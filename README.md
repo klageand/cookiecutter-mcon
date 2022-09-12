@@ -36,6 +36,7 @@ This will create a new project in the current directory.
 ### The resulting directory structure:
 ------------
 
+
 The directory structure of your new project looks like this: 
 
 ```
