@@ -1,4 +1,5 @@
-# Cookiecutter MCON - derived from Cookiebutter Data Science (https://github.com/drivendata/cookiecutter-data-science)
+# Cookiecutter MCON 
+_derived from Cookiebutter Data Science (https://github.com/drivendata/cookiecutter-data-science)
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
 
